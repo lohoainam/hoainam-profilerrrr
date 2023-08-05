@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="/assets/css/main.css">
     <link rel="stylesheet" href="/assets/css/responsive.css">
     <link rel="icon" href="https://infovn.herokuapp.com/assets/img/Logo.png" type="image/x-icon" sizes="192x192">
-    <title>Đặng Đức Khanh</title>
+    <title>Lo Hoài Nam</title>
 </head>
 <body>
     <div class="main">
@@ -26,14 +26,14 @@
                                 <img src="https://i.imgur.com/mCyweec.jpg" alt="" class="intro-user-avt">
                             </div>
                             <div class="intro-user-right">
-                                <h1 class="intro-user-right__name">Đặng Đức Khanh</h1>
+                                <h1 class="intro-user-right__name">Lo Hoài Nam</h1>
                                 <div class="intro-user-right__job">
                                     Developer
                                 </div>
                                 <ul class="intro-user-right__social">
                                     <li class="intro-user-right__social-icon facebook">
                                         <div class="tooltip">Facebook</div>
-                                        <a href="https://www.facebook.com/dangkhanh">
+                                        <a href="https://www.facebook.com/NAM.THICH.AN.CO">
                                             <span id="tooltip-icon" class="facebook">
                                                 <i class="fab fa-facebook" id="tooltip-icon--icon"></i>
                                             </span>
@@ -41,7 +41,7 @@
                                     </li>
                                     <!--<li class="intro-user-right__social-icon tiktok">-->
                                     <!--    <div class="tooltip">TikTok</div>-->
-                                    <!--    <a href="https://vt.tiktok.com/justintung2000x/">-->
+                                    <!--    <a href="https://www.tiktok.com/@lohoainamabcd">-->
                                     <!--        <span id="tooltip-icon" class="tiktok">-->
                                     <!--            <i class="fab fa-tiktok" id="tooltip-icon--icon"></i>-->
                                     <!--        </span>-->
@@ -49,7 +49,7 @@
                                     <!--</li>-->
                                     <li class="intro-user-right__social-icon instagram">
                                         <div class="tooltip">Instagram</div>
-                                        <a href="https://www.instagram.com/dangkhanh">
+                                        <a href="https://www.instagram.com/bolalohoainam/">
                                             <span id="tooltip-icon" class="instagram">
                                                 <i class="fab fa-instagram" id="tooltip-icon--icon"></i>
                                             </span>
@@ -67,7 +67,7 @@
                                 <li class="intro-contact-list__item">
                                     <span class="overhead">
                                         Email
-                                    </span>dangduckhanh@gmail.com
+                                    </span>lohoainam37@gmail.com
                                 </li>
                                 <li class="intro-contact-list__item">
                                     <span class="overhead">
